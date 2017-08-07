@@ -1,0 +1,15 @@
+..\OBJ\test.o: test.c
+..\OBJ\test.o: ..\SYSTEM\sys\sys.h
+..\OBJ\test.o: ..\SYSTEM\sys\stm32f10x.h
+..\OBJ\test.o: D:\MDK\ARM\RV31\INC\core_cm3.h
+..\OBJ\test.o: D:\MDK\ARM\RV31\INC\stdint.h
+..\OBJ\test.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\OBJ\test.o: ..\SYSTEM\usart\usart.h
+..\OBJ\test.o: D:\MDK\ARM\RV31\INC\stdio.h
+..\OBJ\test.o: ..\SYSTEM\delay\delay.h
+..\OBJ\test.o: ..\HARDWARE\LED\led.h
+..\OBJ\test.o: ..\HARDWARE\KEY\key.h
+..\OBJ\test.o: ..\HARDWARE\TIMER\timer.h
+..\OBJ\test.o: ..\HARDWARE\ULTRASONIC\ultrasonic.h
+..\OBJ\test.o: ..\HARDWARE\MOTOR\motor.h
+..\OBJ\test.o: ..\HARDWARE\INFRARED\infrared.h
